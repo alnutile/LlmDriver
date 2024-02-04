@@ -1,0 +1,2517 @@
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:39.831656Z",
+    "message": {
+        "role": "assistant",
+        "content": "\n"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:39.862067Z",
+    "message": {
+        "role": "assistant",
+        "content": "The"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:39.892222Z",
+    "message": {
+        "role": "assistant",
+        "content": " sky"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:39.923258Z",
+    "message": {
+        "role": "assistant",
+        "content": " appears"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:39.965645Z",
+    "message": {
+        "role": "assistant",
+        "content": " blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:39.99821Z",
+    "message": {
+        "role": "assistant",
+        "content": " because"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.0295Z",
+    "message": {
+        "role": "assistant",
+        "content": " of"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.060488Z",
+    "message": {
+        "role": "assistant",
+        "content": " a"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.090297Z",
+    "message": {
+        "role": "assistant",
+        "content": " phenomen"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.122353Z",
+    "message": {
+        "role": "assistant",
+        "content": "on"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.154334Z",
+    "message": {
+        "role": "assistant",
+        "content": " called"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.185848Z",
+    "message": {
+        "role": "assistant",
+        "content": " Ray"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.215984Z",
+    "message": {
+        "role": "assistant",
+        "content": "le"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.247423Z",
+    "message": {
+        "role": "assistant",
+        "content": "igh"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.278156Z",
+    "message": {
+        "role": "assistant",
+        "content": " scatter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.307698Z",
+    "message": {
+        "role": "assistant",
+        "content": "ing"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.337785Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.376729Z",
+    "message": {
+        "role": "assistant",
+        "content": " When"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.404878Z",
+    "message": {
+        "role": "assistant",
+        "content": " sun"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.444364Z",
+    "message": {
+        "role": "assistant",
+        "content": "light"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.476325Z",
+    "message": {
+        "role": "assistant",
+        "content": " enters"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.514474Z",
+    "message": {
+        "role": "assistant",
+        "content": " Earth"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.545745Z",
+    "message": {
+        "role": "assistant",
+        "content": "'"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.575912Z",
+    "message": {
+        "role": "assistant",
+        "content": "s"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.614055Z",
+    "message": {
+        "role": "assistant",
+        "content": " atmosphere"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.644772Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.675014Z",
+    "message": {
+        "role": "assistant",
+        "content": " it"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.713541Z",
+    "message": {
+        "role": "assistant",
+        "content": " enc"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.743455Z",
+    "message": {
+        "role": "assistant",
+        "content": "oun"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.776102Z",
+    "message": {
+        "role": "assistant",
+        "content": "ters"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.814757Z",
+    "message": {
+        "role": "assistant",
+        "content": " tiny"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.846408Z",
+    "message": {
+        "role": "assistant",
+        "content": " mole"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.876647Z",
+    "message": {
+        "role": "assistant",
+        "content": "cules"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.91055Z",
+    "message": {
+        "role": "assistant",
+        "content": " of"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.940513Z",
+    "message": {
+        "role": "assistant",
+        "content": " g"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:40.972459Z",
+    "message": {
+        "role": "assistant",
+        "content": "ases"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.001504Z",
+    "message": {
+        "role": "assistant",
+        "content": " such"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.031098Z",
+    "message": {
+        "role": "assistant",
+        "content": " as"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.064208Z",
+    "message": {
+        "role": "assistant",
+        "content": " nit"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.092737Z",
+    "message": {
+        "role": "assistant",
+        "content": "ro"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.121424Z",
+    "message": {
+        "role": "assistant",
+        "content": "gen"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.154101Z",
+    "message": {
+        "role": "assistant",
+        "content": " and"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.184859Z",
+    "message": {
+        "role": "assistant",
+        "content": " o"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.223673Z",
+    "message": {
+        "role": "assistant",
+        "content": "xygen"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.25647Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.28795Z",
+    "message": {
+        "role": "assistant",
+        "content": " These"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.31698Z",
+    "message": {
+        "role": "assistant",
+        "content": " mole"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.348707Z",
+    "message": {
+        "role": "assistant",
+        "content": "cules"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.378507Z",
+    "message": {
+        "role": "assistant",
+        "content": " scatter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.406608Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.44719Z",
+    "message": {
+        "role": "assistant",
+        "content": " light"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.47766Z",
+    "message": {
+        "role": "assistant",
+        "content": " in"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.505782Z",
+    "message": {
+        "role": "assistant",
+        "content": " all"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.53594Z",
+    "message": {
+        "role": "assistant",
+        "content": " directions"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.570728Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.599109Z",
+    "message": {
+        "role": "assistant",
+        "content": " but"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.628101Z",
+    "message": {
+        "role": "assistant",
+        "content": " they"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.660511Z",
+    "message": {
+        "role": "assistant",
+        "content": " scatter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.690689Z",
+    "message": {
+        "role": "assistant",
+        "content": " shorter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.729597Z",
+    "message": {
+        "role": "assistant",
+        "content": " ("
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.763637Z",
+    "message": {
+        "role": "assistant",
+        "content": "blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.792939Z",
+    "message": {
+        "role": "assistant",
+        "content": ")"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.830545Z",
+    "message": {
+        "role": "assistant",
+        "content": " w"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.861849Z",
+    "message": {
+        "role": "assistant",
+        "content": "avel"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.892737Z",
+    "message": {
+        "role": "assistant",
+        "content": "ength"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.93056Z",
+    "message": {
+        "role": "assistant",
+        "content": "s"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.963587Z",
+    "message": {
+        "role": "assistant",
+        "content": " more"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:41.993339Z",
+    "message": {
+        "role": "assistant",
+        "content": " than"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.030962Z",
+    "message": {
+        "role": "assistant",
+        "content": " longer"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.062942Z",
+    "message": {
+        "role": "assistant",
+        "content": " ("
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.093042Z",
+    "message": {
+        "role": "assistant",
+        "content": "red"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.122285Z",
+    "message": {
+        "role": "assistant",
+        "content": ")"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.159316Z",
+    "message": {
+        "role": "assistant",
+        "content": " w"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.191751Z",
+    "message": {
+        "role": "assistant",
+        "content": "avel"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.219771Z",
+    "message": {
+        "role": "assistant",
+        "content": "ength"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.261644Z",
+    "message": {
+        "role": "assistant",
+        "content": "s"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.292787Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.321685Z",
+    "message": {
+        "role": "assistant",
+        "content": " This"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.353376Z",
+    "message": {
+        "role": "assistant",
+        "content": " is"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.385136Z",
+    "message": {
+        "role": "assistant",
+        "content": " known"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.416631Z",
+    "message": {
+        "role": "assistant",
+        "content": " as"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.457347Z",
+    "message": {
+        "role": "assistant",
+        "content": " Ray"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.48793Z",
+    "message": {
+        "role": "assistant",
+        "content": "le"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.51778Z",
+    "message": {
+        "role": "assistant",
+        "content": "igh"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.547125Z",
+    "message": {
+        "role": "assistant",
+        "content": " scatter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.578511Z",
+    "message": {
+        "role": "assistant",
+        "content": "ing"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.618973Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.650305Z",
+    "message": {
+        "role": "assistant",
+        "content": "\n"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.681836Z",
+    "message": {
+        "role": "assistant",
+        "content": "\n"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.714392Z",
+    "message": {
+        "role": "assistant",
+        "content": "As"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.755882Z",
+    "message": {
+        "role": "assistant",
+        "content": " a"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.787323Z",
+    "message": {
+        "role": "assistant",
+        "content": " result"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.817611Z",
+    "message": {
+        "role": "assistant",
+        "content": " of"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.848106Z",
+    "message": {
+        "role": "assistant",
+        "content": " this"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.884725Z",
+    "message": {
+        "role": "assistant",
+        "content": " scatter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.914686Z",
+    "message": {
+        "role": "assistant",
+        "content": "ing"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.946887Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:42.977053Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.007168Z",
+    "message": {
+        "role": "assistant",
+        "content": " blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.03748Z",
+    "message": {
+        "role": "assistant",
+        "content": " light"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.077204Z",
+    "message": {
+        "role": "assistant",
+        "content": " is"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.107175Z",
+    "message": {
+        "role": "assistant",
+        "content": " distributed"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.138504Z",
+    "message": {
+        "role": "assistant",
+        "content": " throughout"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.171237Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.201519Z",
+    "message": {
+        "role": "assistant",
+        "content": " atmosphere"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.233475Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.26618Z",
+    "message": {
+        "role": "assistant",
+        "content": " giving"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.296155Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.33034Z",
+    "message": {
+        "role": "assistant",
+        "content": " sky"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.361639Z",
+    "message": {
+        "role": "assistant",
+        "content": " its"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.390493Z",
+    "message": {
+        "role": "assistant",
+        "content": " blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.421082Z",
+    "message": {
+        "role": "assistant",
+        "content": " appearance"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.453194Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.483505Z",
+    "message": {
+        "role": "assistant",
+        "content": " The"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.513878Z",
+    "message": {
+        "role": "assistant",
+        "content": " reason"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.545656Z",
+    "message": {
+        "role": "assistant",
+        "content": " why"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.576442Z",
+    "message": {
+        "role": "assistant",
+        "content": " we"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.606732Z",
+    "message": {
+        "role": "assistant",
+        "content": " see"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.637949Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.672223Z",
+    "message": {
+        "role": "assistant",
+        "content": " sky"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.700459Z",
+    "message": {
+        "role": "assistant",
+        "content": " as"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.730707Z",
+    "message": {
+        "role": "assistant",
+        "content": " blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.76326Z",
+    "message": {
+        "role": "assistant",
+        "content": " and"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.791686Z",
+    "message": {
+        "role": "assistant",
+        "content": " not"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.820072Z",
+    "message": {
+        "role": "assistant",
+        "content": " another"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.855863Z",
+    "message": {
+        "role": "assistant",
+        "content": " color"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.887232Z",
+    "message": {
+        "role": "assistant",
+        "content": " is"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.915968Z",
+    "message": {
+        "role": "assistant",
+        "content": " due"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.948756Z",
+    "message": {
+        "role": "assistant",
+        "content": " to"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:43.980527Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.008913Z",
+    "message": {
+        "role": "assistant",
+        "content": " particular"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.041158Z",
+    "message": {
+        "role": "assistant",
+        "content": " w"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.07352Z",
+    "message": {
+        "role": "assistant",
+        "content": "avel"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.102071Z",
+    "message": {
+        "role": "assistant",
+        "content": "ength"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.130596Z",
+    "message": {
+        "role": "assistant",
+        "content": "s"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.16669Z",
+    "message": {
+        "role": "assistant",
+        "content": " of"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.195569Z",
+    "message": {
+        "role": "assistant",
+        "content": " light"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.224135Z",
+    "message": {
+        "role": "assistant",
+        "content": " that"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.257236Z",
+    "message": {
+        "role": "assistant",
+        "content": " are"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.289503Z",
+    "message": {
+        "role": "assistant",
+        "content": " scattered"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.319393Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.352184Z",
+    "message": {
+        "role": "assistant",
+        "content": " most"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.385329Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.41375Z",
+    "message": {
+        "role": "assistant",
+        "content": " The"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.443562Z",
+    "message": {
+        "role": "assistant",
+        "content": " human"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.476933Z",
+    "message": {
+        "role": "assistant",
+        "content": " eye"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.506333Z",
+    "message": {
+        "role": "assistant",
+        "content": " is"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.535051Z",
+    "message": {
+        "role": "assistant",
+        "content": " most"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.569421Z",
+    "message": {
+        "role": "assistant",
+        "content": " sensitive"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.600054Z",
+    "message": {
+        "role": "assistant",
+        "content": " to"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.628204Z",
+    "message": {
+        "role": "assistant",
+        "content": " blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.659932Z",
+    "message": {
+        "role": "assistant",
+        "content": " light"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.692459Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.720669Z",
+    "message": {
+        "role": "assistant",
+        "content": " so"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.752409Z",
+    "message": {
+        "role": "assistant",
+        "content": " we"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.7822Z",
+    "message": {
+        "role": "assistant",
+        "content": " perce"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.812568Z",
+    "message": {
+        "role": "assistant",
+        "content": "ive"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.853365Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.886042Z",
+    "message": {
+        "role": "assistant",
+        "content": " sky"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.914823Z",
+    "message": {
+        "role": "assistant",
+        "content": " as"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.955363Z",
+    "message": {
+        "role": "assistant",
+        "content": " blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:44.986971Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.015631Z",
+    "message": {
+        "role": "assistant",
+        "content": "\n"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.056351Z",
+    "message": {
+        "role": "assistant",
+        "content": "\n"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.088243Z",
+    "message": {
+        "role": "assistant",
+        "content": "It"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.127014Z",
+    "message": {
+        "role": "assistant",
+        "content": "'"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.158669Z",
+    "message": {
+        "role": "assistant",
+        "content": "s"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.192573Z",
+    "message": {
+        "role": "assistant",
+        "content": " worth"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.222242Z",
+    "message": {
+        "role": "assistant",
+        "content": " not"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.252776Z",
+    "message": {
+        "role": "assistant",
+        "content": "ing"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.284589Z",
+    "message": {
+        "role": "assistant",
+        "content": " that"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.315497Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.355729Z",
+    "message": {
+        "role": "assistant",
+        "content": " color"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.388181Z",
+    "message": {
+        "role": "assistant",
+        "content": " of"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.41935Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.459764Z",
+    "message": {
+        "role": "assistant",
+        "content": " sky"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.493451Z",
+    "message": {
+        "role": "assistant",
+        "content": " can"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.522632Z",
+    "message": {
+        "role": "assistant",
+        "content": " appear"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.55438Z",
+    "message": {
+        "role": "assistant",
+        "content": " different"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.594142Z",
+    "message": {
+        "role": "assistant",
+        "content": " under"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.623465Z",
+    "message": {
+        "role": "assistant",
+        "content": " different"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.654219Z",
+    "message": {
+        "role": "assistant",
+        "content": " conditions"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.686694Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.717351Z",
+    "message": {
+        "role": "assistant",
+        "content": " For"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.758475Z",
+    "message": {
+        "role": "assistant",
+        "content": " example"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.794634Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.824602Z",
+    "message": {
+        "role": "assistant",
+        "content": " during"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.855981Z",
+    "message": {
+        "role": "assistant",
+        "content": " sun"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.888728Z",
+    "message": {
+        "role": "assistant",
+        "content": "r"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.919082Z",
+    "message": {
+        "role": "assistant",
+        "content": "ise"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.949476Z",
+    "message": {
+        "role": "assistant",
+        "content": " and"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:45.983524Z",
+    "message": {
+        "role": "assistant",
+        "content": " sun"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.014184Z",
+    "message": {
+        "role": "assistant",
+        "content": "set"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.044452Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.076072Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.106707Z",
+    "message": {
+        "role": "assistant",
+        "content": " sky"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.14588Z",
+    "message": {
+        "role": "assistant",
+        "content": " can"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.177301Z",
+    "message": {
+        "role": "assistant",
+        "content": " take"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.209271Z",
+    "message": {
+        "role": "assistant",
+        "content": " on"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.237832Z",
+    "message": {
+        "role": "assistant",
+        "content": " h"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.270562Z",
+    "message": {
+        "role": "assistant",
+        "content": "ues"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.306065Z",
+    "message": {
+        "role": "assistant",
+        "content": " of"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.335624Z",
+    "message": {
+        "role": "assistant",
+        "content": " red"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.368147Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.398683Z",
+    "message": {
+        "role": "assistant",
+        "content": " orange"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.429859Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.472434Z",
+    "message": {
+        "role": "assistant",
+        "content": " and"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.502773Z",
+    "message": {
+        "role": "assistant",
+        "content": " p"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.533198Z",
+    "message": {
+        "role": "assistant",
+        "content": "ink"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.566352Z",
+    "message": {
+        "role": "assistant",
+        "content": " due"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.597015Z",
+    "message": {
+        "role": "assistant",
+        "content": " to"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.627541Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.658478Z",
+    "message": {
+        "role": "assistant",
+        "content": " scatter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.690149Z",
+    "message": {
+        "role": "assistant",
+        "content": "ing"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.720601Z",
+    "message": {
+        "role": "assistant",
+        "content": " of"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.751918Z",
+    "message": {
+        "role": "assistant",
+        "content": " light"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.790273Z",
+    "message": {
+        "role": "assistant",
+        "content": " by"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.821066Z",
+    "message": {
+        "role": "assistant",
+        "content": " particles"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.853682Z",
+    "message": {
+        "role": "assistant",
+        "content": " in"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.883934Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.913783Z",
+    "message": {
+        "role": "assistant",
+        "content": " atmosphere"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.943857Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:46.974966Z",
+    "message": {
+        "role": "assistant",
+        "content": " Additionally"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.014849Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.047025Z",
+    "message": {
+        "role": "assistant",
+        "content": " poll"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.085352Z",
+    "message": {
+        "role": "assistant",
+        "content": "ution"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.115994Z",
+    "message": {
+        "role": "assistant",
+        "content": " and"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.148907Z",
+    "message": {
+        "role": "assistant",
+        "content": " dust"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.179432Z",
+    "message": {
+        "role": "assistant",
+        "content": " in"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.209276Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.241363Z",
+    "message": {
+        "role": "assistant",
+        "content": " air"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.274799Z",
+    "message": {
+        "role": "assistant",
+        "content": " can"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.30387Z",
+    "message": {
+        "role": "assistant",
+        "content": " scatter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.334469Z",
+    "message": {
+        "role": "assistant",
+        "content": " light"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.369107Z",
+    "message": {
+        "role": "assistant",
+        "content": " in"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.397833Z",
+    "message": {
+        "role": "assistant",
+        "content": " a"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.427849Z",
+    "message": {
+        "role": "assistant",
+        "content": " way"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.463555Z",
+    "message": {
+        "role": "assistant",
+        "content": " that"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.492074Z",
+    "message": {
+        "role": "assistant",
+        "content": " makes"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.523897Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.55673Z",
+    "message": {
+        "role": "assistant",
+        "content": " sky"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.588741Z",
+    "message": {
+        "role": "assistant",
+        "content": " appear"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.628497Z",
+    "message": {
+        "role": "assistant",
+        "content": " more"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.66162Z",
+    "message": {
+        "role": "assistant",
+        "content": " ha"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.692684Z",
+    "message": {
+        "role": "assistant",
+        "content": "zy"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.721377Z",
+    "message": {
+        "role": "assistant",
+        "content": " or"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.753955Z",
+    "message": {
+        "role": "assistant",
+        "content": " yellow"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.786805Z",
+    "message": {
+        "role": "assistant",
+        "content": "ish"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.819899Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.853035Z",
+    "message": {
+        "role": "assistant",
+        "content": "\n"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.885592Z",
+    "message": {
+        "role": "assistant",
+        "content": "\n"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.914412Z",
+    "message": {
+        "role": "assistant",
+        "content": "In"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.947784Z",
+    "message": {
+        "role": "assistant",
+        "content": " summary"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:47.980945Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.017377Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.048886Z",
+    "message": {
+        "role": "assistant",
+        "content": " sky"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.082662Z",
+    "message": {
+        "role": "assistant",
+        "content": " appears"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.111876Z",
+    "message": {
+        "role": "assistant",
+        "content": " blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.153497Z",
+    "message": {
+        "role": "assistant",
+        "content": " because"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.186647Z",
+    "message": {
+        "role": "assistant",
+        "content": " of"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.225209Z",
+    "message": {
+        "role": "assistant",
+        "content": " Ray"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.257816Z",
+    "message": {
+        "role": "assistant",
+        "content": "le"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.289147Z",
+    "message": {
+        "role": "assistant",
+        "content": "igh"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.317777Z",
+    "message": {
+        "role": "assistant",
+        "content": " scatter"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.349744Z",
+    "message": {
+        "role": "assistant",
+        "content": "ing"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.38272Z",
+    "message": {
+        "role": "assistant",
+        "content": ","
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.413036Z",
+    "message": {
+        "role": "assistant",
+        "content": " which"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.443293Z",
+    "message": {
+        "role": "assistant",
+        "content": " prefer"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.477003Z",
+    "message": {
+        "role": "assistant",
+        "content": "entially"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.508025Z",
+    "message": {
+        "role": "assistant",
+        "content": " sc"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.537104Z",
+    "message": {
+        "role": "assistant",
+        "content": "at"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.570481Z",
+    "message": {
+        "role": "assistant",
+        "content": "ters"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.604571Z",
+    "message": {
+        "role": "assistant",
+        "content": " blue"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.633343Z",
+    "message": {
+        "role": "assistant",
+        "content": " light"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.667463Z",
+    "message": {
+        "role": "assistant",
+        "content": " throughout"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.699824Z",
+    "message": {
+        "role": "assistant",
+        "content": " the"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.728874Z",
+    "message": {
+        "role": "assistant",
+        "content": " atmosphere"
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.76035Z",
+    "message": {
+        "role": "assistant",
+        "content": "."
+    },
+    "done": false
+}
+{
+    "model": "llama2",
+    "created_at": "2024-02-04T02:21:48.791914Z",
+    "message": {
+        "role": "assistant",
+        "content": ""
+    },
+    "done": true,
+    "total_duration": 13888345334,
+    "load_duration": 4789197750,
+    "prompt_eval_count": 26,
+    "prompt_eval_duration": 138454000,
+    "eval_count": 279,
+    "eval_duration": 8960214000
+}

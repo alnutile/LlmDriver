@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace AlNutile\LlmDriver\Tests;
 
 use PHPUnit\Framework\TestCase;
 
